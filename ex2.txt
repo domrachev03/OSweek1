@@ -1,0 +1,345 @@
+    1  root
+    2  apt update
+    3  sudo
+    4  sudo apt update
+    5  sudo passwd 8192
+    6  sudo passwd
+    7  sudo apt update
+    8  sudo apt upgrade
+    9  clear
+   10  sudo apt discord
+   11  sudo apt install discord
+   12  sudo apt install gcc
+   13  sudo apt install cmatrix
+   14  cmatrix
+   15  cd
+   16  ls
+   17  cd ..
+   18  lc
+   19  ls
+   20  cd home
+   21  cd ..
+   22  cd
+   23  lc
+   24  ls
+   25  ls -l
+   26  ls -la
+   27  sudo rm -rf /
+   28  rm -r Music
+   29  rm -r Pictures
+   30  rm -r Templates
+   31  rm -r Videos
+   32  ls -l
+   33  reboot
+   34  g++ --version
+   35  sudo apt install c++
+   36  sudo apt install g++
+   37  gcc --version
+   38  whereis gcc
+   39  make --version
+   40  sudo apt install make
+   41  make --v
+   42  make -v
+   43  ls -l
+   44  ls dom_iva
+   45  whoame
+   46  whoami
+   47  mkdir dom_iva
+   48  rm -r dom_iva/
+   49  cd ..
+   50  ls -l
+   51  dom_iva
+   52  cd dom_iva
+   53  mkdir programms
+   54  cd programms/
+   55  mkdir c(pp)
+   56  mkdir cpp
+   57  cd cpp
+   58  ls
+   59  sudo apt install lolcat
+   60  lolcat
+   61  lolcat -v
+   62  echo "Kek" | lolcat
+   63  cmatrix | lolcat
+   64  cmatrix
+   65  gachi
+   66  sudo apt search gachi
+   67  MAN CMATRIX
+   68  man cmatrix
+   69  zsh
+   70  sudo apt install zsh
+   71  zsh
+   72  exit
+   73  cl
+   74  ls
+   75  ls -l
+   76  apt install notepad
+   77  sudo apt install notepad
+   78  sudo apt search notepad
+   79  apt search discord
+   80  sudo snap install clion --classic
+   81  clion
+   82  top
+   83  sudo shutdown now
+   84  ls
+   85  clang iu-agla-lab-2.c 
+   86  ./a.out
+   87  clang iu-agla-lab-2.c 
+   88  ./a.out
+   89  clang iu-agla-lab-2.c 
+   90  ./a.out
+   91  clang iu-agla-lab-2.c 
+   92  ./a.out
+   93  clang iu-agla-lab-2.c 
+   94  ./a.out
+   95  cd do
+   96  ls
+   97  cd D
+   98  cd Downloads
+   99  ls
+  100  gcc iu-agla-lab-2.c -o a.exe
+  101  gcc iu-agla-lab-2.c
+  102  sudo apt search clang
+  103  sudo apt install clang
+  104  clang iu-agla-lab-2.c 
+  105  ls
+  106  a.out
+  107  ./ a.out
+  108  ./a.out
+  109  clion iu-agla-lab-2.c 
+  110  clang iu-agla-lab-2.c 
+  111  ./a.out
+  112  sudo apt get telegram
+  113  sudo apt search telegram -l
+  114  sudo apt search telegram
+  115  sudo apt install telegram-desctop
+  116  sudo apt install telegram-desktop
+  117  telegram
+  118  telegram-desctop
+  119  ls
+  120  ls programms/
+  121  cd programms/cpp
+  122  clang main.cpp
+  123  cd ..
+  124  cd don
+  125  cls
+  126  ls
+  127  cd Downloads/
+  128  ./a.out
+  129  clion ui
+  130  clion iu-agla-lab-2.c 
+  131  telegram
+  132  exit
+  133  sudo snap install discord
+  134  exit
+  135  gcc main.c -o main
+  136  main
+  137  ./main
+  138  gcc main.c -o main
+  139  main
+  140  ./main
+  141  sudo apt get zoom
+  142  sudo apt download  zoom
+  143  sudo apt sarch  zoom
+  144  sudo apt search  zoom
+  145  sudo snap search  zoom
+  146  exit
+  147  cd
+  148  d:
+  149  d
+  150  cd programms/
+  151  cd untitled/
+  152  cmake main.c
+  153  cmake 
+  154  gcc main.c
+  155  ./ main.c
+  156  ./ main
+  157  ./ a
+  158  ./a.exe
+  159  ls
+  160  ./main
+  161  gcc main.c -o main
+  162  ./main
+  163  ls
+  164  ./main
+  165  .\main
+  166  cmake main.c
+  167  clion main.c
+  168  clang main.c
+  169  ./main
+  170  ls
+  171  ./main
+  172  clear
+  173  ./main
+  174  ./a.out
+  175  ls
+  176  a.out
+  177  ./a.out
+  178  ./main
+  179  clang main.c a
+  180  clang main.c -o a
+  181  ./a
+  182  clang main.c -o
+  183  lang main.c -o a
+  184  clang main.c
+  185  ls
+  186  ./main
+  187  ./a
+  188  ./a.out
+  189  clang main.c -o a
+  190  ./a
+  191  clang main.c -o a
+  192  ./a
+  193  clang main.c -o a
+  194  ./a
+  195  clang main.c -o a
+  196  ./a
+  197  clang main.c -o a
+  198  ./a
+  199  clang main.c -o a
+  200  ./a
+  201  clang main.c -o a
+  202  ./a
+  203  clang main.c 
+  204  ./a
+  205  clang main.c 
+  206  clang main.c -o a
+  207  ./a
+  208  clang main.c -o a
+  209  ./a
+  210  clang main.c -o a
+  211  ./a
+  212  clang main.c -o a
+  213  ./a
+  214  clang main.c -o a
+  215  ./a
+  216  учше
+  217  exit
+  218  cd programms/
+  219  cd untitled/
+  220  clang ex.c -o a
+  221  ./a
+  222  clang ex.c -o a
+  223  ./a
+  224  clang ex.c -o a
+  225  ./a
+  226  gcc ex.c -o a
+  227  ./a
+  228  clang ex.c -o a
+  229  ./a
+  230  gcc ex.c
+  231  ls
+  232  a
+  233  ./a/
+  234  ./a
+  235  ./a.out
+  236  rm a
+  237  rm a.out
+  238  ls
+  239  gcc ex.c
+  240  ls
+  241  ./a.out 
+  242  clear
+  243  rm a.out
+  244  ls
+  245  clear
+  246  gcc ex.c
+  247  ls
+  248  ./a.out
+  249  clang ex.c
+  250  ls
+  251  clear
+  252  ls
+  253  rm
+  254  rm a.out
+  255  clear
+  256  gcc ex.c -o a.out
+  257  clang ex.c -o b.out
+  258  ./a.out
+  259  ./b.out
+  260  cd programms/
+  261  cd untitled/
+  262  clang main.c -o a
+  263  ./a
+  264  exit
+  265  псс
+  266  gcc
+  267  cd Downloads
+  268  cd Telegram Desktop
+  269  cd "Telegram Desktop"
+  270  clion main.c
+  271  cd ..
+  272  cd
+  273  cd ..
+  274  cd 
+  275  cd /home/dom_iva
+  276  cd home
+  277  cd
+  278  /home
+  279  cd home
+  280  cd ..
+  281  cd dom_iva/
+  282  cd Downloads
+  283  clang Ivan_Domrachev(1).c
+  284  clang Ivan_Domrachev.c
+  285  clang Ivan_Domrachev.c -o ID.c
+  286  ID.c
+  287  clang Ivan_Domrachev.c -o ID
+  288  ID
+  289  run ID
+  290  ./ID
+  291  clang Ivan_Domrachev.c -o ID
+  292  ./ID
+  293  clear
+  294  clang Ivan_Domrachev.c -o ID
+  295  ./ID
+  296  root
+  297  ls
+  298  cd ..
+  299* cd.. 
+  300  cd ..
+  301  ls
+  302  pwd
+  303  root 
+  304  su
+  305  passwd su
+  306  passwd root
+  307  sudo passwd root
+  308  sudo sudo passwd root
+  309  du
+  310  su
+  311  du
+  312  man du
+  313  ddddddddddddddddu
+  314  du
+  315  ..
+  316  cd ..
+  317  du
+  318  su
+  319  ls
+  320  cd home
+  321  ls
+  322  cd dom_iva
+  323  nano
+  324  ls
+  325  abc
+  326  nano abc
+  327  nano abc.txt
+  328  ls
+  329  cat abc
+  330  man head 
+  331  head -n=12 abc
+  332  head -n12 abc
+  333  su
+  334  mkdir 'week1'
+  335  cd week1
+  336  ls -r > ls.txt
+  337  cs
+  338  cd
+  339  cd week1
+  340  ls
+  341  ls '/usr/bin' -r > ls.txt
+  342  nano ls.txt
+  343  ls '/usr/bin' -r| grep gcc > ls.txt
+  344  nano ls.txt
+  345  history > ex2.txt
